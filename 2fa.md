@@ -164,7 +164,7 @@ git remote add origin {SSH URL}`
 
 **PASTE** the URL you copied in the previous step. For example, my command would be
 
-_git remote add origin git@github.com:ree/hello-world-api.git_
+_git remote add origin git@github.com:ree\/hello-world-api.git_
 
 ---
 
