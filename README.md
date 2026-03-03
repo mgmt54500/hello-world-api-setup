@@ -223,7 +223,7 @@ This is my first API.
 
 ---
 
-> [!ALERT]
+> [!IMPORTANT]
 > If you set up your GitHub account to use two-factor authentication (2FA), you will need to perform some more configuration steps. [Visit this page to find those instructions](2fa.md) and then return here!
 
 ---
