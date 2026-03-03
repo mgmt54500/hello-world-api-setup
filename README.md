@@ -220,6 +220,14 @@ Update your `README.md` file with a simple introductory message.
 
 This is my first API.
 ```
+
+---
+
+> [!ALERT]
+> If you set up your GitHub account to use two-factor authentication (2FA), you will need to perform some more configuration steps. [Visit this page to find those instructions](2fa.md) and then return here!
+
+---
+
 ## Part 10: Commit and Push to GitHub
 
 Stop the server with `CTRL+C` in the terminal.
